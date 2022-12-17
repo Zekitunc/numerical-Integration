@@ -1,0 +1,14 @@
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\bin\Debug\netcoreapp3.1\numericalintegration.exe
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\bin\Debug\netcoreapp3.1\numericalintegration.deps.json
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\bin\Debug\netcoreapp3.1\numericalintegration.runtimeconfig.json
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\bin\Debug\netcoreapp3.1\numericalintegration.runtimeconfig.dev.json
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\bin\Debug\netcoreapp3.1\numericalintegration.dll
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\bin\Debug\netcoreapp3.1\numericalintegration.pdb
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\obj\Debug\netcoreapp3.1\numericalintegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\obj\Debug\netcoreapp3.1\numericalintegration.AssemblyInfoInputs.cache
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\obj\Debug\netcoreapp3.1\numericalintegration.AssemblyInfo.cs
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\obj\Debug\netcoreapp3.1\numericalintegration.csproj.CoreCompileInputs.cache
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\obj\Debug\netcoreapp3.1\numericalintegration.dll
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\obj\Debug\netcoreapp3.1\numericalintegration.pdb
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\obj\Debug\netcoreapp3.1\numericalintegration.genruntimeconfig.cache
+C:\Users\Cansu\source\repos\numericalintegration\numericalintegration\obj\Debug\netcoreapp3.1\numericalintegration.csproj.AssemblyReference.cache
